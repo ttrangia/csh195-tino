@@ -1,18 +1,12 @@
 ---
-layout: post
-title: About Me
+layout: simple
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Why does this site exist?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+While I originally intended to create a resume/CV/portfolio website for professional purposes, I realized that my personal site should be, well, more _personal_. I also found myself repeating information that already existed on my resume and LinkedIn. Thus, this site has become more of a blog, one that offers a deeper, more holistic view of my experiences and thought processes. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Additionally, I wanted to get some basic experience with front-end web development. This site is hosted on [Github Pages](https://pages.github.com) and built with [Jekyll](https://jekyllrb.com). It's currently making use of the [Tale](https://github.com/chesterhow/tale) theme, though I hope to develop my own theme at some point. At this moment, the site is _very_ work-in-progress, so please excuse any missing content or weird formatting that you might stumble across.
