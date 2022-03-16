@@ -1,4 +1,5 @@
 ---
-layout: post
-title: Tino Trangia
+layout: simple
 ---
+
+Hi
