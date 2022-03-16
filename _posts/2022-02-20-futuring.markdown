@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Futuring and Imaginaries"
+author: "Tino Trangia"
+tags: essays
+excerpt_separator: <!--more-->
+---
+
+unreleased

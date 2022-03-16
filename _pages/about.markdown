@@ -3,7 +3,7 @@ layout: simple
 permalink: /about/
 ---
 
-# About Me
+# About
 
 ## Why does this site exist?
 
