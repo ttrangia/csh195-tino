@@ -33,9 +33,7 @@ paginate_path: "/_pages/:num"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Tino Trangia
 
 # Build settings
 markdown:       kramdown
