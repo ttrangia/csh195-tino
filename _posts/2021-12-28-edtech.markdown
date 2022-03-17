@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Why I'm Interested in EdTech"
+author: "Tino Trangia"
+tags: essays
+excerpt_separator: <!--more-->
+---
+
+Throughout elementary school, I was actually a pretty terrible student. In third grade, I remember taking a multiple choice test, and noticing a pattern after about seven questions. In my unlimited childhood wisdom, I decided to fill out the rest of the bubbles by repeating the pattern, thinking that I had cheated the test. Later that week, my parents were called in to have a chat. My teacher told them that I had failed the exam.<!--more-->
+
+### Growing Up Viet
+
+My parents couldn't comprehend why I did so poorly. They yelled at me on the car ride home until I cried. I still thought that I was onto something. They tried to tutor me, but there was a language barrier. Having not learned English until the first grade, I was barely scrapping by in class, able to comprehend only some of the questions thrown at me. My parents, on the other hand, were Vietnamese refugees who could speak English, but didn't really read anything that wasn't a tax return. Despite being teachers in Vietnam, they didn't know what to make of the American curriculum.
+
+And so, I was on my own. Weighed down by social anxiety and limited fluency, I wasn't comfortable reaching out to teachers for help. My parents expected me to be self-sufficient and make do with the few educational resources that I had.
+
+One of those resources turned out to be vital in building me into the student that I am today. Every Saturday, my mom would take me to the local public library. It was messy, stuffy, and filled with decade-old equipment, but it was a privilege nonetheless. In between the gray shelves, I found the key to honing my reading skills, itching my scientific curiosities, and developing into a life-long learner. From scratched CDs and CRT monitors, I had access to learning games and English programs, something that lead to my appreciation of technology today. Without access to these resources, I would not be the eager leaner that I am now.
+
+### Empowerment
+
+Throughout my academic career, I continued to develop an understanding of educational resources and their role in empowering students. I'm not just saying it though &mdash; here are some of things that I've _done_ related to improving education:
+
+* As president of my high school's [UNICEF](https://www.unicefusa.org) club, I organized fundraisers to collect donations that go toward classroom materials, nutrition packets, and other resources for children in low-income nations.
+* I worked as a tutor for my high school, helping fellow students with Advanced Placement (AP) courses including Chemistry, Calculus, and US History. 
+* At Berkeley, I was a mentor for [Pioneers in Engineering](https://pioneers.berkeley.edu) (PIE) and helped facilitate a robotics competition, bringing STEM opportunities to multiple under-served high schools in the East Bay. 
+* As mentioned on the home page, I've worked on many projects geared toward improving the college learning environment as part of the Engineering Student Council at Berkeley. Aside from those already mentioned, I've helped organize faculty panels, networking workshops, and an event designed to introduce students to research opportunities on campus.
+* I was an academic intern for [CS61B](https://inst.eecs.berkeley.edu/~cs61b/sp22/index.html), Berkeley's data structures course, where I helped teach concepts and coding assignments to 30+ students. 
+
+Thus, as someone who wants to make a positive social impact, I can say that I truly support technologies that can optimize learning experiences and deliver new, interactive ways for individuals to develop their skills. Not only am I interested in applying my technical skills in ways that can help students and educators, but I want to collaborate with colleagues who have a similar desire for driving social good and a shared passion for creative learning.
