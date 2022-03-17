@@ -10,8 +10,9 @@ I made a simple, proof-of-concept project to build a product dispenser that was 
 
 <br>
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xlw_nAnmnzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/Xlw_nAnmnzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 
