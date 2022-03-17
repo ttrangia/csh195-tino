@@ -2,7 +2,7 @@
 layout: post
 title: "Why I'm Interested in EdTech"
 author: "Tino Trangia"
-tags: essays
+tags: personal
 excerpt_separator: <!--more-->
 ---
 

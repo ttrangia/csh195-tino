@@ -1,0 +1,77 @@
+---
+layout: post
+title: "On Reading"
+author: "Tino Trangia"
+tags: personal
+excerpt_separator: <!--more-->
+---
+
+## Some Books I've Read
+
+_Where Reasons End_ by Yiyun Li
+
+_On Earth We're Briefly Gorgeous_ by Ocean Vuong
+
+_Norwegian Wood_ by Haruki Murakami
+
+_The Expanse_ series by James S.A Corey
+
+_The Three Body Problem_ series by Liu Cixin
+
+_A Thousand Moons on a Thousand Rivers_
+
+_Of Mice and Men_
+
+_East of Eden_
+
+_Grapes of Wrath_
+
+_The Sun Also Rises_ by Ernest Hemingway
+
+_The Story of Your Life and Others_
+
+_The Paper Managerie_
+
+_The Handmaid's Tale_ by Margaret Atwood
+
+_Parable of the Sower_
+
+_One Hundred Years of Solitude_
+
+_The Sympathizer_
+
+_To Kill a Mockingbird_
+
+_Night_ 
+
+_Frankenstein_ by Mary Shelley
+
+_The Time Machine_
+
+_20000 Leagues Under the Sea_
+
+_Dune_ by Frank Herbert
+
+_The Martian_ by Andy Weir
+
+_House of Leaves_
+
+_Brave New World_ by Aldous Huxley
+
+_1984_ by George Orwell
+
+_Animal Farm_ by George Orwell
+
+_Pride and Prejudice_
+
+_Slaughterhouse-Five_ by Kurt Vonnegut
+
+_The Trial_ by Franz Kafka
+
+_The Lord of the Rings_ series by J.R.R. Tolkien
+
+_Lord of the Flies_ by William Golding
+
+_The Little Prince_ by Antoine de Saint-Exupery
+
+
