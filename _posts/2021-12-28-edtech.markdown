@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 Throughout elementary school, I was actually a pretty terrible student. In third grade, I remember taking a multiple choice test, and noticing a pattern after about seven questions. In my unlimited childhood wisdom, I decided to fill out the rest of the bubbles by repeating the pattern, thinking that I had cheated the test. Later that week, my parents were called in to have a chat. My teacher told them that I had failed the exam.<!--more-->
 
-### Growing Up Viet
+## Growing Up Viet
 
 My parents couldn't comprehend why I did so poorly. They yelled at me on the car ride home until I cried. I still thought that I was onto something. They tried to tutor me, but there was a language barrier. Having not learned English until the first grade, I was barely scrapping by in class, able to comprehend only some of the questions thrown at me. My parents, on the other hand, were Vietnamese refugees who could speak English, but didn't really read anything that wasn't a tax return. Despite being teachers in Vietnam, they didn't know what to make of the American curriculum.
 
@@ -16,7 +16,7 @@ And so, I was on my own. Weighed down by social anxiety and limited fluency, I w
 
 One of those resources turned out to be vital in building me into the student that I am today. Every Saturday, my mom would take me to the local public library. It was messy, stuffy, and filled with decade-old equipment, but it was a privilege nonetheless. In between the gray shelves, I found the key to honing my reading skills, itching my scientific curiosities, and developing into a life-long learner. Using scratched CDs and CRT monitors, I had access to learning games and English programs, something that lead to my appreciation of technology today. Without access to these resources, I would not be the eager leaner that I am now.
 
-### Empowerment
+## Empowerment
 
 Throughout my academic career, I continued to develop an understanding of educational resources and their role in empowering students. I'm not just saying it though &mdash; here are some of things that I've _done_ related to improving education:
 

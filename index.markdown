@@ -4,7 +4,7 @@ layout: simple
 
 # Hello, my name is Tino!
 
-I (he/him) am currently a junior studying **electrical engineering and computer science** at the University of California, Berkeley. I've taken courses about data structures, computer architecture, databases, operating systems, discrete math, efficient algorithms, and more. Through course projects and outside resources, I have gained experience with Java, Python, C, SQL, and RISC-V Assembly. I'm a strong believer in exploring new opportunities, decolonizing STEM, and using tech (i.e. intellectual capital) for social good.
+I (he/him) am currently a junior studying **electrical engineering and computer science** at the University of California, Berkeley. I've taken courses about data structures, computer architecture, databases, operating systems, discrete math, efficient algorithms, information system design and more. Through course projects and outside resources, I have gained experience with Java, Python, C, SQL, and RISC-V Assembly. I'm a strong believer in exploring new opportunities, decolonizing STEM, and using tech (i.e. intellectual capital) for social good.
 
 Aside from being a student, I'm currently a research assistant at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu), where I performed hardware testing for space-borne instrumentation and developed a Python-based data analysis tool for streamlining neutron imaging research. For the latter, I worked directly with physicists and researchers to optimize user experience, from improving load times to adding quality-of-life GUI features.
 

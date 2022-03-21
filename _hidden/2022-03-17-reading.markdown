@@ -20,35 +20,35 @@ _The Three Body Problem_ series by Liu Cixin
 
 _A Thousand Moons on a Thousand Rivers_
 
-_Of Mice and Men_
+_Of Mice and Men_ by John Steinbeck
 
-_East of Eden_
+_East of Eden_ by John Steinbeck
 
-_Grapes of Wrath_
+_Grapes of Wrath_ by John Steinbeck
 
 _The Sun Also Rises_ by Ernest Hemingway
 
-_The Story of Your Life and Others_
+_The Story of Your Life and Others_ by Ted Chiang
 
-_The Paper Managerie_
+_The Paper Managerie_ by Ken Liu
 
 _The Handmaid's Tale_ by Margaret Atwood
 
-_Parable of the Sower_
+_Parable of the Sower_ by Octavia Butler
 
 _One Hundred Years of Solitude_
 
-_The Sympathizer_
+_The Sympathizer_ by Viet Than Nguyen
 
-_To Kill a Mockingbird_
+_To Kill a Mockingbird_ by Harper Lee
 
-_Night_ 
+_Night_ by Elie Wiesel
 
 _Frankenstein_ by Mary Shelley
 
-_The Time Machine_
+_The Time Machine_ by H.G. Wells
 
-_20000 Leagues Under the Sea_
+_20000 Leagues Under the Sea_ by Jules Verne
 
 _Dune_ by Frank Herbert
 
@@ -62,7 +62,7 @@ _1984_ by George Orwell
 
 _Animal Farm_ by George Orwell
 
-_Pride and Prejudice_
+_Pride and Prejudice_ by Jane Austen
 
 _Slaughterhouse-Five_ by Kurt Vonnegut
 
