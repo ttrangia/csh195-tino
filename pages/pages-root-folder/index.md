@@ -7,20 +7,17 @@
 layout: frontpage
 header:
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "About"
+  url: 'https://www.culturalcomputingatcal.org/about'
+  text: 'This website was created in fulfillment of requirements for CS H195: Honors Social Implications of Computer Technology. It was designed as a resource hub for students at UC Berkeley to reflect upon the "Asian American" identity within the context of computer science education and the workplace.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Resources"
+  url: 'https://www.culturalcomputingatcal.org/resources'
+  text: 'A non-exhaustive list of books, articles, and videos that span a wide range of relevant topics. Learn more about the history and current situation of Asian American people in the tech industry, as well as the history and complexities of the Asian American identity overall.'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Blog"
+  url: 'https://www.culturalcomputingatcal.org/blog'
+  text: 'Opinion pieces, personal stories, summaries, and reading reviews from students at Cal and other members of the education community.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -31,10 +28,6 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -43,9 +36,4 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+
