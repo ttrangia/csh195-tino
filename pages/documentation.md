@@ -100,6 +100,7 @@ ___
 * ["Opinion \| Asian American Students Face Bias, but It’s Not What You Might Think" - Jennifer Lee](https://www.nytimes.com/2022/11/01/opinion/affirmative-action-asian-american-bias.html)
 * ["Opinion \| It’s Time for an Honest Conversation About Affirmative Action" - Jay Caspian Kang](https://www.nytimes.com/2022/01/27/opinion/affirmative-action-harvard.html?action=click&module=RelatedLinks&pgtype=Article)
 * ["Archive \| Rapid rise in students of Asian origin causing problems at Berkeley campus" - Wallace Turner](https://www.nytimes.com/1981/04/09/us/rapid-rise-in-students-of-asian-origin-causing-problems-at-berkeley-campus.html)
+* ["Affirmative action divides Asian Americans, UC’s largest overrepresented student group" - LA Times](https://www.latimes.com/california/story/2020-11-01/affirmative-action-divides-asian-americans-ucs-largest-overrepresented-student-group)
   
 ### Videos
 
