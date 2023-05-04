@@ -49,6 +49,16 @@ format: frontpage
     </div><!-- /.row -->
 {% endif %}
 
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 
 
 {% comment %}
@@ -98,14 +108,3 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
