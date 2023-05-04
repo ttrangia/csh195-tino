@@ -79,10 +79,12 @@ ___
 * ["Asian Americans As Model Minority: Dismantling The Myth" - NPR](https://www.npr.org/2021/05/25/999874296/6-charts-that-dismantle-the-trope-of-asian-americans-as-a-model-minority)
 * ["'Model Minority' Myth Again Used As A Racial Wedge Between Asians And Blacks" - NPR](https://www.npr.org/sections/codeswitch/2017/04/19/524571669/model-minority-myth-again-used-as-a-racial-wedge-between-asians-and-blacks)
 * ["Proximity to Whiteness: Anti-Blackness, People of Color, and the Struggle for Solidarity" - Nimisha Barton](https://www.drnimishabarton.com/redacted/proximity-to-whitenessnbspanti-blackness-people-of-color-and-the-struggle-for-solidarity)
+* ["Income Inequality in the U.S. Is Rising Most Rapidly Among Asians"](https://www.pewresearch.org/social-trends/2018/07/12/income-inequality-in-the-u-s-is-rising-most-rapidly-among-asians/)
+* ["Boba liberalism: How the emergence of superficial activism could cause more harm than good to the AAPI community"](https://www.insider.com/boba-liberalism-critique-on-a-shallow-political-identity-amid-crisis-2021-3)
 
 ### Videos
 
-## On EECS/CS Programs and Education
+## On Education and EECS/CS Programs
 
 ### Organizations
 
@@ -95,7 +97,10 @@ ___
 * ["Diversity in EECS" - Shomail Jain](https://shomil.me/eecs-diversity/)
 * ["Why are Asian American kids killing themselves" - George Qiao](https://planamag.com/why-are-asian-american-kids-killing-themselves/)
 * ["Diversity in CS: Race and gender among CS majors in 2015 vs 2020" - Stanford Daily](https://stanforddaily.com/2020/08/08/how-has-diversity-within-stanfords-cs-department-changed-over-the-past-5-years/)
-
+* ["Opinion \| Asian American Students Face Bias, but It’s Not What You Might Think" - Jennifer Lee](https://www.nytimes.com/2022/11/01/opinion/affirmative-action-asian-american-bias.html)
+* ["Opinion \| It’s Time for an Honest Conversation About Affirmative Action" - Jay Caspian Kang](https://www.nytimes.com/2022/01/27/opinion/affirmative-action-harvard.html?action=click&module=RelatedLinks&pgtype=Article)
+* ["Archive \| Rapid rise in students of Asian origin causing problems at Berkeley campus" - Wallace Turner](https://www.nytimes.com/1981/04/09/us/rapid-rise-in-students-of-asian-origin-causing-problems-at-berkeley-campus.html)
+  
 ### Videos
 
 ## On Silicon Valley
