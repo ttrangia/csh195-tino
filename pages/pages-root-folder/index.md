@@ -5,7 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
 widget1:
   title: "About"
   url: 'https://www.culturalcomputingatcal.org/about'
@@ -17,7 +16,7 @@ widget2:
 widget3:
   title: "Blog"
   url: 'https://www.culturalcomputingatcal.org/blog'
-  text: 'Opinion pieces, personal stories, summaries, and reading reviews from students at Cal and other members of the education community.'
+  text: 'Opinion pieces, personal stories, summaries, and reading reviews from students at Cal and other members of the community. Intended to provide more personal insights, comments, and reflections than found under the resources page. Contributors are welcome.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,5 +34,5 @@ permalink: /index.html
 #
 homepage: true
 ---
-
+# A project for spreading awareness of cultural competence resources for Asian American CS students.
 
